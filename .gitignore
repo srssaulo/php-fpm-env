@@ -4,6 +4,7 @@
 
 #php projects
 app
+!app/.gitignore
 # IntelliJ project files
 .idea
 *.iml
