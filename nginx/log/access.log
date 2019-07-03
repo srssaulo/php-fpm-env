@@ -10,3 +10,6 @@
 192.168.48.1 - - [03/Jul/2019:15:21:38 +0000] "GET /moodle/install/css.php HTTP/1.1" 200 478383 "http://localhost/moodle/install.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36" "-"
 192.168.48.1 - - [03/Jul/2019:15:22:02 +0000] "POST /moodle/install.php HTTP/1.1" 200 3276 "http://localhost/moodle/install.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36" "-"
 192.168.48.1 - - [03/Jul/2019:15:22:02 +0000] "GET /moodle/install/css.php HTTP/1.1" 200 478391 "http://localhost/moodle/install.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36" "-"
+172.30.0.1 - - [03/Jul/2019:19:41:54 +0000] "GET / HTTP/1.1" 403 555 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" "-"
+172.30.0.1 - - [03/Jul/2019:19:41:55 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" "-"
+172.30.0.1 - - [03/Jul/2019:19:42:26 +0000] "GET / HTTP/1.1" 200 93028 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" "-"
